@@ -1,0 +1,15 @@
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\bin\Debug\net6.0\muxtelifreqem.exe
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\bin\Debug\net6.0\muxtelifreqem.deps.json
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\bin\Debug\net6.0\muxtelifreqem.runtimeconfig.json
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\bin\Debug\net6.0\muxtelifreqem.dll
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\bin\Debug\net6.0\muxtelifreqem.pdb
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.csproj.AssemblyReference.cache
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.AssemblyInfoInputs.cache
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.AssemblyInfo.cs
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.csproj.CoreCompileInputs.cache
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.dll
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\refint\muxtelifreqem.dll
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.pdb
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\muxtelifreqem.genruntimeconfig.cache
+C:\Users\mehre\source\repos\muxtelifreqem\muxtelifreqem\obj\Debug\net6.0\ref\muxtelifreqem.dll
